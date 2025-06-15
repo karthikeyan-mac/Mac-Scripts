@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>InstallMacOSMajorUpgrades</key>
+<true/>
+<key>InstallRapidSecurityResponses</key>
+<true/>
+<key>InstallNonSystemUpdatesWithoutRestarting</key>
+<true/>
+<key>AuthAskUserToSavePassword</key>
+<true/>
+<key>DeferralTimerMenu</key>
+<string>60,120,360,720,1440</string>
+<key>DisplayIconLightFile</key>
+<string>/Library/Application Support/SupportFiles/icons/logo_small.png</string>
+<key>DisplayIconDarkFile</key>
+<string>/Library/Application Support/SupportFiles/icons/logo_small.png</string>
+<key>DisplayAccessoryType</key>
+<string>TEXTBOX</string>
+<key>DisplayAccessoryDefaultFile</key>
+<string>/Library/Application Support/SupportFiles/super/DefaultText.txt</string>
+<key>DisplayAccessoryMacOSMinorUpdateFile</key>
+<string>/Library/Application Support/SupportFiles/super/macOSMinor.txt</string>
+<key>DisplayAccessoryMacOSMajorUpgradeFile</key>
+<string>/Library/Application Support/SupportFiles/super/macOSMajor.txt</string>
+<key>DisplayHelpButtonString</key>
+<string>https://company.service-now.com/esc</string>
+<key>DeferralTimerFocus</key>
+<string>60</string>
+<key>DeadlineDaysFocus</key>
+<string>14</string>
+<key>DeadlineDaysSoft</key>
+<string>15</string>
+<key>DialogTimeoutDefault</key>
+<string>1800</string>
+<key>DialogTimeoutUserAuth</key>
+<string>240</string>
+<key>DialogTimeoutInsufficientStorage</key>
+<string>900</string>
+<key>DialogTimeoutPowerRequired</key>   
+<string>900</string>
+<key>DisplayNotificationsCentered</key>
+<string>ALWAYS,DEADLINE,SCHEDULED,INSTALLNOW,ERROR</string>
+</dict>
+</plist>
